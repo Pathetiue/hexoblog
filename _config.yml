@@ -106,4 +106,4 @@ deploy:
   type: git
   repo:
     github: 'https://github.com/Pathetiue/hexoblog.git'
-    branch: gh-pages
+  branch: gh-pages
